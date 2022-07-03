@@ -12,6 +12,8 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
+<a href="https://linkedin.com/in/ahmad-zamil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmad-zamil" height="30" width="40" /></a>
+<a href="https://kaggle.com/ahmadzamil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ahmadzamil" height="30" width="40" /></a>
 <a href="https://fb.com/unprotictable.zamil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="unprotictable.zamil" height="30" width="40" /></a>
 </p>
 
